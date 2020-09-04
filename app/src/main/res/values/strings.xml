@@ -1,8 +1,7 @@
 <resources>
     <string name="app_name">Hello Android Pitagoras</string>
-    <string name="segundo_widget">Segundo widget</string>
-    <string name="primeiro_widget">Primeiro Widget</string>
-    <string name="teste_texto">Fabricio Teste</string>
-    <string name="outro_teste">Fabricio Teste 2</string>
-    <string name="um_texto_qq">Um texto qualquer.</string>
+    <string name="tv_message">Qual é o seu curso?</string>
+    <string name="et_message">Nome do curso</string>
+    <string name="tv_answare">O curso informado foi</string>
+    <string name="btn_send">Confirmar Curso</string>
 </resources>
